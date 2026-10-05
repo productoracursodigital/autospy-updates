@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "param_idioma": "content_languages[0]",
+  "param_fecha_max": "start_date[max]",
+  "hay_anuncios_js": "() => /(Library ID|ID de la biblioteca|Identificador de la biblioteca)/i.test(document.body.innerText)",
+  "sin_resultados_js": "() => /(No ads match|No hay anuncios|No se encontraron|no ads|0 results|0 resultados)/i.test(document.body.innerText)"
+}
